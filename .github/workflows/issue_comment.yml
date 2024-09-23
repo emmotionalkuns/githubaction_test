@@ -1,7 +1,7 @@
 name: create a comment on new issues
 
 on:
-  issue:
+  issues:
     types: [opened]
 
 jobs:
