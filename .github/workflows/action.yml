@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: hello world
-        run: echo "Hello world"
+        run: echo "Hello world, welcome to my first github action test"
         shell: bash
 
   goodbye:
